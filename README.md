@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Rafał Szychowski
 
-You can use the [editor on GitHub](https://github.com/rafszych/rafszych.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#PORTFOLIO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Makro do programu Imagej**
+Analiza kontaktów zogniskowanych na podstawie wybarwienia winkuliny i F-aktyny w komórkach, z minimalnym udziałem użytkownika. Pozwala na pomiar tysięcy kontaktów w przeciągu kilkudziesięciu sekund.
+
+![2021-11-01-17-35-46 (1)](https://user-images.githubusercontent.com/56659395/139720978-52918ed9-08a3-4ea8-8483-1443b44dc1d9.gif)
+
+**Symulacja zderzeń w 2D**
+Projekt zderzeń cząsteczek w przestrzeni dwuwymirowej.
 
 ### Markdown
 
@@ -30,7 +36,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-![2021-11-01-17-35-46 (1)](https://user-images.githubusercontent.com/56659395/139720978-52918ed9-08a3-4ea8-8483-1443b44dc1d9.gif)
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafszych/rafszych.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
