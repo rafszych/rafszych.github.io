@@ -2,13 +2,17 @@
 
 # PORTFOLIO
 
-**Makro do programu Imagej**
+**[Makro do programu Imagej](https://www.reddit.com)**
+
 Analiza kontaktów zogniskowanych na podstawie wybarwienia winkuliny i F-aktyny w komórkach, z minimalnym udziałem użytkownika. Pozwala na pomiar tysięcy kontaktów w przeciągu kilkudziesięciu sekund.
 
 ![2021-11-01-17-35-46 (1)](https://user-images.githubusercontent.com/56659395/139720978-52918ed9-08a3-4ea8-8483-1443b44dc1d9.gif)
 
 **Symulacja zderzeń w 2D**
+
 Projekt zderzeń cząsteczek w przestrzeni dwuwymirowej.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56659395/139721003-6fd94f75-a82c-4219-98a5-da9608a8aaac.gif)
 
 ### Markdown
 
@@ -30,7 +34,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```![ezgif com-gif-maker](https://user-images.githubusercontent.com/56659395/139721003-6fd94f75-a82c-4219-98a5-da9608a8aaac.gif)
+```
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
