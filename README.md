@@ -1,6 +1,6 @@
 ## Rafał Szychowski
 
-#PORTFOLIO
+# PORTFOLIO
 
 **Makro do programu Imagej**
 Analiza kontaktów zogniskowanych na podstawie wybarwienia winkuliny i F-aktyny w komórkach, z minimalnym udziałem użytkownika. Pozwala na pomiar tysięcy kontaktów w przeciągu kilkudziesięciu sekund.
