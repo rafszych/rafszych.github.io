@@ -7,7 +7,7 @@ Analiza kontaktów zogniskowanych na podstawie wybarwienia winkuliny i F-aktyny 
 ![2021-11-01-17-35-46 (1)](https://user-images.githubusercontent.com/56659395/139720978-52918ed9-08a3-4ea8-8483-1443b44dc1d9.gif)
 
 
-**Symulacja zderzeń w 2D**
+**[Symulacja zderzeń w 2D](https://github.com/rafszych/2D-simulation)**
 
 Projekt zderzeń cząsteczek w przestrzeni dwuwymirowej. Projekt w programie C
 
