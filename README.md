@@ -2,7 +2,7 @@
 
 **[Imagej macro](https://github.com/rafszych/FAs-ImageJ-Macro/tree/main)**
 
-Created to speed up the analysis of microscopic images of Focal Adhesions (FAs). Uses two channels - stained FAs (e.g. vinculin) and whole cell staining (e.g. F-actin).
+Created to speed up the analysis of microscopic images of Focal Adhesions (FAs). Uses two channels - stained FAs (e.g. vinculin) and whole cell staining (e.g. F-actin). Already has been used in two master theses.
 
 ![2021-11-01-17-35-46 (1)](https://user-images.githubusercontent.com/56659395/139720978-52918ed9-08a3-4ea8-8483-1443b44dc1d9.gif)
 
