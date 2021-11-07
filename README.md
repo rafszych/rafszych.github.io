@@ -1,4 +1,4 @@
-# PORTFOLIO
+# Rafał Szychowski - PORTFOLIO
 
 **[Imagej macro](https://github.com/rafszych/FAs-ImageJ-Macro/tree/main)**
 
